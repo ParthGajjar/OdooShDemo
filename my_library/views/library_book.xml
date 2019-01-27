@@ -35,7 +35,7 @@
                     </group>
                     <sheet>
                         <page string="Description">
-                            <field name="description">
+                            <field name="description"/>
                         </page>
                     </sheet>
                 </sheet>
