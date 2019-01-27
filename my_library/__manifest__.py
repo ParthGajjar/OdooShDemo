@@ -6,7 +6,7 @@
     'author': "Your name",
     'website': "http://www.example.com",
     'category': 'Uncategorized',
-    'version': '12.0.1',
+    'version': '12.0.2',
     'depends': ['base', 'web', 'contacts'],
     'data': [
         'security/groups.xml',
