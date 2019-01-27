@@ -33,11 +33,11 @@
                             <field name="color" widget="int_color"/>
                         </group>
                     </group>
-                    <notebook>
+                    <sheet>
                         <page string="Description">
                             <field name="description"/>
                         </page>
-                    </notebook>
+                    </sheet>
                 </sheet>
             </form>
         </field>
