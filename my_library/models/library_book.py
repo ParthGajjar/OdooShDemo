@@ -15,6 +15,7 @@ class LibraryBook(models.Model):
          ('lost', 'Lost')],
         'State', default="draft")
     color = fields.Integer()
+    description = fields.Html()
 
     def make_available(self):
         self.write({'state': 'available'})
